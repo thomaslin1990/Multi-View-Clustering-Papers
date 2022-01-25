@@ -2,7 +2,7 @@
 
 Collections for the lasted paper about multi-view clustering methods (papers, codes). There also exists some repositories related to Multi-View Clustering Paper. Such as [awesome-multi-view-clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering). The difference is that this repository is a list of papers and just a little analysis on them. Hope that receive your 'PR bombs'.
 
-Besides, the directory 'data loader' is a simple coda base that is used to construct multi-view dataset. Glad to receive your advice to improve it.
+Besides, the directory 'data loader' is a simple coda base that is used to construct multi-view dataset object. Glad to receive your advice to improve it.
 
 **Note: some paper is not about Multi-View clustering but is related to Multi-View learning.** I think it may be helpful for new ideas about Multi-View Clustering tasks.
 
