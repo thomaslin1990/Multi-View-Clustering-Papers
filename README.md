@@ -81,6 +81,8 @@ Besides, the directory 'data loader' is a simple coda base that is used to const
 
 Some data is so big that we can not upload to Github. But you can get them by Baidu Service. <a href="https://pan.baidu.com/s/1LgsL3JDJL4vEwDRzpTp3oA ">link</a> code：g9zv
 
+More detailed dataset information can be get <a href="./Data Info.md">here</a>.
+
 |  Data set   | Samples | Views | Clusters |                           Location                           |
 | :---------: | :-----: | :---: | :------: | :----------------------------------------------------------: |
 | Handwritten |  2000   |   6   |    10    |           <a href="./data/handwritten.mat">Get</a>           |
