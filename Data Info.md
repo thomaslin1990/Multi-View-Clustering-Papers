@@ -14,7 +14,7 @@
 
 ### Caltech101
 
-- **Key Information: ** 9144 samples | 101 classes | 5 views (extracted features) | <a href="http://www.vision.caltech.edu/Image_Datasets/Caltech101/">src</a>
+- **Key Information:** 9144 samples | 101 classes | 5 views (extracted features) | <a href="http://www.vision.caltech.edu/Image_Datasets/Caltech101/">src</a>
 - **Features:** 48-D Gabor, 40-D Wavelet Moments, 254-D Cenhist, 512-D GIST and 928-D LBP
 - **Overview:** Pictures of objects belonging to 101 categories. About 40 to 800 images per category. Most categories have about 50 images. Collected in September 2003 by Fei-Fei Li, Marco Andreetto, and Marc 'Aurelio Ranzato. The size of each image is roughly 300 x 200 pixels.
 
@@ -22,7 +22,7 @@
 
 - **Key Information:** 2000 samples | 10 classes | 6 views (extracted features) | <a href="https://archive.ics.uci.edu/ml/datasets/Multiple+Features/">src</a>
 - **Features:** 76-D fourier coefficient, 216-D profile correlation, 64-D Karhunen-Love coefficient, 240-D pixel average, 47-D Zernike moment and 6-D morphological features
-- **Overview:** This dataset consists of features of handwritten numerals (`0'--`9') extracted from a collection  of Dutch utility maps. 200 patterns per class (for a total of 2,000 patterns) have been digitized in binary images.
+- **Overview:** This dataset consists of features of handwritten numerals ('0--9') extracted from a collection  of Dutch utility maps. 200 patterns per class (for a total of 2,000 patterns) have been digitized in binary images.
 
 ### SUNRGBD3
 
