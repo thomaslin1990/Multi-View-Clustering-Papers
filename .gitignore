@@ -1,6 +1,8 @@
 
-data/AwA_fea.mat
-data/Caltech101-all_fea.mat
-data/NUS-WIDE-OBJECT_fea.mat
-data/SUNRGBD_fea.mat
-data/YoutubeVideo_sel_fea.mat
+/data loader/.idea/
+/data loader/__pycache__/
+data loader/data/AwA_fea.mat
+data loader/data/Caltech101-all_fea.mat
+data loader/data/NUS-WIDE-OBJECT_fea.mat
+data loader/data/SUNRGBD_fea.mat
+data loader/data/YoutubeVideo_sel_fea.mat

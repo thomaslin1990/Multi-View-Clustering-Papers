@@ -23,6 +23,10 @@ This is a framework of loading multi-view data. As you can see, the file organiz
 - `MVDataBaseClass.py`: it defines two classes. Those classes are the basic class of this code base. `MVDataBaseClass` just a abstract super class. `DataShell` is a class representing the framework of other specific dataset class.
 - `test.py`: just for some simple test.
 
+## Todolist
+
+- load_mirflickr
+
 ## Use
 
 1. download this code base
