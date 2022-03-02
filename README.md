@@ -35,7 +35,7 @@ Besides, the directory 'data loader' is a simple coda base that is used to const
 - [ICDE 2020] A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering <a href="https://ieeexplore.ieee.org/document/9101762">Paper</a>
 - [ICML 2019] COMIC: Multi-view Clustering Without Parameter Selection <a href="http://proceedings.mlr.press/v97/peng19a/peng19a.pdf">Paper</a>
 - [IEEE 2021] Dual Alignment Self-Supervised Incomplete Multi-View Subspace Clustering Network <a href="https://ieeexplore.ieee.org/document/9573269/">Paper</a>
-- [CVPR 2020] End-to-End Adversarial-Attention Network for Multi-Modal Clustering <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_End-to-End_Adversarial-Attention_Network_for_Multi-Modal_Clustering_CVPR_2020_paper.pdf">Paper</a>
+- [CVPR 2020] End-to-End Adversarial-Attention Network for Multi-Modal Clustering <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_End-to-End_Adversarial-Attention_Network_for_Multi-Modal_Clustering_CVPR_2020_paper.pdf">Paper</a> <a href="https://github.com/DanielTrosten/mvc/tree/main/src/eamc">Code</a>
 - [AAAI 2021] Fast Multi-view Discrete Clustering with Anchor Graphs <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17128/16935">Paper</a>
 - [IJCAI 2019] Flexible Multi-View Representation Learning for Subspace Clustering <a href="https://www.ijcai.org/proceedings/2019/0404.pdf">Paper</a>
 - [IJCAI 2019] Multi-View Attribute Graph Convolution Networks for Clustering <a href="https://www.ijcai.org/proceedings/2020/0411.pdf">Paper</a>
